@@ -32,7 +32,7 @@ ARUCO_DICT = {
 #Config
 tag_size = 250
 aruco_type = 'DICT_ARUCO_ORIGINAL'
-aruco_id = 1
+aruco_id = 5
 
 
 arucoDict = cv2.aruco.Dictionary_get(ARUCO_DICT[aruco_type])
