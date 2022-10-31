@@ -62,7 +62,7 @@ if __name__ == '__main__':
     
     dirpath = args['dir']
     # 8.5 cm == 0.085 m    
-    square_size = 0.085
+    square_size = 0.025
 
     width = args['width']
     height = args['height']
